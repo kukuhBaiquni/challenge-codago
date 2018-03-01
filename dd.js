@@ -25,3 +25,4 @@ function stringManipulation(word){
       }
   }return hasil
 }
+console.log();
